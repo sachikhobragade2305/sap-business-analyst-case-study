@@ -1,13 +1,13 @@
 # sap-business-analyst-case-study
 # SAP Business Analyst Project: ERP Implementation for VastraCraft Innovations
 
-## 👩‍💼 Project Overview
+## Project Overview
 
 This case study simulates my role as a **Business Analyst** for **VastraCraft Innovations**, a fast-growing textile company based in Jaipur, India. The company faced major inefficiencies in order processing and inventory management due to outdated systems. As part of a digital transformation initiative, I was responsible for analyzing the current state, identifying stakeholder needs, and supporting the implementation of an SAP S/4HANA ERP system.
 
 ---
 
-## 🔍 Business Problem
+## Business Problem
 
 - **Frequent order fulfillment errors**
 - **Delays in shipping**
@@ -16,7 +16,7 @@ This case study simulates my role as a **Business Analyst** for **VastraCraft In
 
 ---
 
-## 🧩 My Responsibilities
+## My Responsibilities
 
 - Stakeholder identification and analysis
 - Requirements gathering and prioritization
@@ -27,7 +27,7 @@ This case study simulates my role as a **Business Analyst** for **VastraCraft In
 
 ---
 
-## 📈 Project Outcomes
+## Project Outcomes
 
 - Improved inventory accuracy
 - 30% reduction in order errors (simulated metrics)
@@ -36,7 +36,7 @@ This case study simulates my role as a **Business Analyst** for **VastraCraft In
 
 ---
 
-## 📁 Repository Contents
+## Repository Contents
 
 | Folder | Description |
 |--------|-------------|
@@ -47,7 +47,7 @@ This case study simulates my role as a **Business Analyst** for **VastraCraft In
 
 ---
 
-## 📚 Key Skills Demonstrated
+## Key Skills Demonstrated
 
 - Business Analysis (BA) Fundamentals
 - SAP ERP concepts and impact analysis
