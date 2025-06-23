@@ -58,9 +58,7 @@ This case study simulates my role as a **Business Analyst** for **VastraCraft In
 
 ---
 
-## 📬 Contact
 
-Feel free to reach out or collaborate on similar Business Analysis or ERP simulation projects.
 
 
 
